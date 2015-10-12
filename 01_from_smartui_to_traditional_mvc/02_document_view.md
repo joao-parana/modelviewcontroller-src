@@ -8,9 +8,6 @@ separated.
 
 The resulting design is a two-class system known in literature as **Document View** or **Model Delegate**
 
-<p align="center">
-  <img src="images/DocumentViewDesign.png"/>
-</p>
 ![DocumentViewDesign](http://etutorials.org/shared/images/tutorials/tutorial_52/05fig09.gif)
 
 The **Document** class is responsible for handling the business logic.
