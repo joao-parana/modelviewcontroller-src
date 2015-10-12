@@ -11,6 +11,7 @@ The resulting design is a two-class system known in literature as **Document Vie
 <p align="center">
   <img src="images/DocumentViewDesign.png"/>
 </p>
+![DocumentViewDesign](http://etutorials.org/shared/images/tutorials/tutorial_52/05fig09.gif)
 
 The **Document** class is responsible for handling the business logic.
 It has no part in dealing with graphical rendering, nor with GUI events. It
