@@ -10,6 +10,8 @@ The resulting design is a two-class system known in literature as **Document Vie
 
 ![DocumentViewDesign](http://etutorials.org/shared/images/tutorials/tutorial_52/05fig09.gif)
 
+![Sequence Diagram](http://etutorials.org/shared/images/tutorials/tutorial_52/05fig10.gif)
+
 The **Document** class is responsible for handling the business logic.
 It has no part in dealing with graphical rendering, nor with GUI events. It
 simply stores application relevant state, and provides an interface to obtain this
